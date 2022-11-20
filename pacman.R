@@ -16,3 +16,5 @@ p_unload()
 
 # install.packages("here")
 # library(here)
+
+dir.create("figures")
