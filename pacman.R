@@ -12,3 +12,7 @@ p_unload()
 #...Package for rendering pdf in markdown..#
 # install.packages("tinytex")
 # tinytex::install_tinytex()
+
+
+# install.packages("here")
+# library(here)
