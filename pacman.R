@@ -9,12 +9,12 @@ p_load(dplyr, tidyr, stringr, lubridate, Httr, GGally, ggplot2, ggpubr, backport
 #...unload packages...#
 p_unload()
 
-#...Package for rendering pdf in markdown..#
+# #...Package for rendering pdf in markdown..#
 # install.packages("tinytex")
 # tinytex::install_tinytex()
-
-
+# 
+# 
 # install.packages("here")
 # library(here)
-
-dir.create("figures")
+# 
+# dir.create("figures")
