@@ -20,6 +20,6 @@ p_unload()
 # 
 # dir.create("figures")
 
-tinytex:::is_tinytex()
-tinytex::uninstall_tinytex()
-tinytex:::install_prebuilt()
+# tinytex:::is_tinytex()
+# tinytex::uninstall_tinytex()
+# tinytex:::install_prebuilt()
